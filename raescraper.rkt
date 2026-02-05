@@ -131,7 +131,7 @@
 (define main
   (lambda ()
     (displayln "---------------------------------------------------")
-    (displayln " RAE FUNCTIONAL SCRAPER (USACH Edition) ")
+    (displayln " RAE FUNCTIONAL SCRAPER ")
     (displayln "---------------------------------------------------")
     (display "Ingrese texto a analizar > ")
     (define user-text (read-line))
