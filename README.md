@@ -10,12 +10,12 @@ The project processes natural language text, tokenizes it, and queries the RAE d
 * **Data Extraction:** Scrapes specific DOM elements (definitions, abbreviations, synonyms).
 * **Recursive Logic:** Handles navigational structures and list processing purely with recursion and higher-order functions (`map`, `filter`).
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Racket (Scheme dialect)
 * **Paradigm:** Functional Programming
 * **Libraries:** `html-parsing`, `net/url`, `sxml`
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 1. **Prerequisites:** Ensure you have [Racket](https://racket-lang.org/) installed.
 2. **Install Dependencies:**
