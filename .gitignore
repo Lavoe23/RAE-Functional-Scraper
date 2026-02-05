@@ -1,0 +1,12 @@
+# Racket compilation artifacts
+compiled/
+*.zo
+*.dep
+*.bak
+
+# macOS junk
+.DS_Store
+
+# Editors
+.vscode/
+*.swp
